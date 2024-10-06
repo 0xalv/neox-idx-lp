@@ -4,7 +4,7 @@ IDX is an innovative DeFi protocol built on the NeoX blockchain. IDX empowers us
 
 # Landing Page of IDX Finance
 
-You can check the landing page live website at:
+You can check the landing page live website at: https://neox-idx-lp.vercel.app/
 
 # App of IDX Finance
 
