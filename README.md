@@ -9,6 +9,7 @@ You can check the landing page live website at: https://neox-idx-lp.vercel.app/
 # App of IDX Finance
 
 You can check the live website at: https://neox-idx-app.vercel.app/
+
 You can find the code at: https://github.com/0xalv/neox-idx-app
 
 # Contracts of IDX Finance
